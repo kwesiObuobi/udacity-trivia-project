@@ -106,7 +106,7 @@ psql trivia_test < trivia.psql
 python test_flaskr.py
 ```
 
-
+<br/> <br/> <br/> <br/> <br/>
 
 
 
@@ -443,7 +443,7 @@ The API returns four error types when requests fail. They are:
 #### GET /categories/{category_id}/questions
 
 * Returns questions based on a specific category
-* Sample: `curl http://127.0.0.1:5000/categories/2/questions
+* Sample: `curl http://127.0.0.1:5000/categories/2/questions`
 
 ```
 {
