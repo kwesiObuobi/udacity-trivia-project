@@ -108,8 +108,6 @@ python test_flaskr.py
 
 <br/> <br/> <br/> <br/> <br/>
 
-
-
 # API Reference
 
 ### Getting Started
