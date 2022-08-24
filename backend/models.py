@@ -23,7 +23,6 @@ def setup_db(app, database_path=database_path):
 
 """
 Question
-
 """
 class Question(db.Model):
     __tablename__ = 'questions'
@@ -62,7 +61,6 @@ class Question(db.Model):
 
 """
 Category
-
 """
 class Category(db.Model):
     __tablename__ = 'categories'
