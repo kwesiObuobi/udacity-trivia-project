@@ -42,7 +42,6 @@ class TriviaTestCase(unittest.TestCase):
         pass
 
     """
-    DONE
     Write at least one test for each test for successful operation and for expected errors.
     """
     def test_get_paginated_questions(self):
@@ -145,7 +144,6 @@ class TriviaTestCase(unittest.TestCase):
         self.assertEqual(res.status_code, 200)
         self.assertEqual(data['success'], True)
         self.assertTrue(data['question'])
-
 
 
 # Make the tests conveniently executable
