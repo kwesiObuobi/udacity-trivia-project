@@ -20,6 +20,7 @@ backend/env/
 .backend/env/
 
 zzz...progress
+mine.psql
 
 # dotenv
 .env
